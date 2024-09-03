@@ -1,3 +1,4 @@
+**Note**: The open source code URL is updated to [](https://github.com/NKU-MobFly-Robotics/LRAE)
 # LRAE
 LRAE: Large-Region-Aware Safe and Fast Autonomous Exploration of Ground Robots for Uneven Terrains
 
